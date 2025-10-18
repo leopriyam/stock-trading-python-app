@@ -1,4 +1,4 @@
- Stock Data Pipeline 📈❄️
+## Stock Data Pipeline 📈❄️
 
 A Python-based **end-to-end data pipeline** that extracts real-time stock ticker information from the [Polygon.io API](https://polygon.io/), automates ingestion with a scheduler, and loads structured data into **Snowflake** for analytics.
 
