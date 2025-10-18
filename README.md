@@ -12,7 +12,7 @@ Built as part of **Zach Wilson's Data Engineering Beginner Bootcamp**.
 * **Pagination Handling**: Automatically traverses large datasets using `next_url`
 * **Rate Limit Management**: Intelligent retry logic with strategic delays to avoid HTTP 429 errors
 * **CSV Export**: Option to save tickers locally in `tickers.csv`
-* **Snowflake Integration**: Inserts ticker data into `ATIQUE.PUBLIC.STOCK_TICKERS`
+* **Snowflake Integration**: Inserts ticker data into `STOCK_TICKERS';
 * **Automation**: `scheduler.py` ensures the pipeline runs continuously and keeps Snowflake data fresh
 * **Error Resilience**: Robust error handling for API, JSON, and database operations
 
