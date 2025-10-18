@@ -1,1 +1,5 @@
-
+requests
+openai
+python-dotenv     # ✅ correct package name for 'dotenv'
+schedule
+snowflake-connector-python
